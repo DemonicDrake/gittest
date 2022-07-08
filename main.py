@@ -12,6 +12,8 @@ walking = [pygame.image.load("Graphics/Atlases/Gameplay/characters/player/walk00
 standing = [pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle00.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle01.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle02.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle03.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle04.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle05.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle06.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle07.png"), pygame.image.load("Graphics/Atlases/Gameplay/characters/player/idle08.png")]
 bg = pygame.image.load("Graphics/Atlases/MirrorTemple/00.png")
 
+#VERSION 6
+
 x = 50
 y = 425
 width = 32
